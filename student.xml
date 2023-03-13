@@ -1,0 +1,10 @@
+<class name="6mata">
+	<student no="1234" telefonno="5468954">
+		<name>Ali</name>
+		<surname>Yilmaz</surname>
+		</student>
+	<student no="1202" telefonno="8545263">
+		<name>Mehmet</name>
+		<surname>Demir</surname>
+		</student>
+</class>
